@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "F:\\ASP.NET\\Asp.net_core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|f:\\asp.net\\asp.net_core\\bai1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|solutionrelative:bai1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|f:\\asp.net\\asp.net_core\\bai1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|solutionrelative:bai1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|f:\\asp.net\\asp.net_core\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|f:\\asp.net\\asp.net_core\\bai1\\views\\home\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|solutionrelative:bai1\\views\\home\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|f:\\asp.net\\asp.net_core\\bai1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|solutionrelative:bai1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|f:\\asp.net\\asp.net_core\\bai1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|solutionrelative:bai1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|f:\\asp.net\\asp.net_core\\bai1\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,28 +35,8 @@
       "RelativeMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|solutionrelative:bai1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|f:\\asp.net\\asp.net_core\\bai1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|solutionrelative:bai1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|f:\\asp.net\\asp.net_core\\bai1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|solutionrelative:bai1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|f:\\asp.net\\asp.net_core\\bai1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|solutionrelative:bai1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|f:\\asp.net\\asp.net_core\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|f:\\asp.net\\asp.net_core\\bai1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|solutionrelative:bai1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|f:\\asp.net\\asp.net_core\\bai1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|solutionrelative:bai1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|f:\\asp.net\\asp.net_core\\bai1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|solutionrelative:bai1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|f:\\asp.net\\asp.net_core\\bai1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -49,6 +45,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|f:\\asp.net\\asp.net_core\\bai1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|solutionrelative:bai1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|f:\\asp.net\\asp.net_core\\bai1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|solutionrelative:bai1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|f:\\asp.net\\asp.net_core\\bai1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA5EECB5-A967-4F47-8890-1E8A50BBBBE9}|Bai1\\Bai1.csproj|solutionrelative:bai1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +62,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "GioiThieu.cshtml",
+              "DocumentMoniker": "F:\\ASP.NET\\Asp.net_core\\Bai1\\Views\\Home\\GioiThieu.cshtml",
+              "RelativeDocumentMoniker": "Bai1\\Views\\Home\\GioiThieu.cshtml",
+              "ToolTip": "F:\\ASP.NET\\Asp.net_core\\Bai1\\Views\\Home\\GioiThieu.cshtml",
+              "RelativeToolTip": "Bai1\\Views\\Home\\GioiThieu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T15:08:47.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_Footer.cshtml",
               "DocumentMoniker": "F:\\ASP.NET\\Asp.net_core\\Bai1\\Views\\Shared\\_Footer.cshtml",
               "RelativeDocumentMoniker": "Bai1\\Views\\Shared\\_Footer.cshtml",
@@ -70,12 +87,11 @@
               "RelativeToolTip": "Bai1\\Views\\Shared\\_Footer.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T14:50:25.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T14:50:25.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "_Header.cshtml",
               "DocumentMoniker": "F:\\ASP.NET\\Asp.net_core\\Bai1\\Views\\Shared\\_Header.cshtml",
               "RelativeDocumentMoniker": "Bai1\\Views\\Shared\\_Header.cshtml",
@@ -83,12 +99,11 @@
               "RelativeToolTip": "Bai1\\Views\\Shared\\_Header.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T14:46:50.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T14:46:50.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "F:\\ASP.NET\\Asp.net_core\\Bai1\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Bai1\\Views\\Shared\\_Layout.cshtml.css",
@@ -96,77 +111,75 @@
               "RelativeToolTip": "Bai1\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-09T14:41:21.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T14:41:21.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "F:\\ASP.NET\\Asp.net_core\\Bai1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Bai1\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "F:\\ASP.NET\\Asp.net_core\\Bai1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Bai1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T14:40:31.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T14:40:31.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\ASP.NET\\Asp.net_core\\Bai1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Bai1\\Views\\Home\\Index.cshtml",
               "ToolTip": "F:\\ASP.NET\\Asp.net_core\\Bai1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Bai1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-09T14:32:21.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "F:\\ASP.NET\\Asp.net_core\\Bai1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Bai1\\Controllers\\HomeController.cs",
               "ToolTip": "F:\\ASP.NET\\Asp.net_core\\Bai1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Bai1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T14:31:06.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "F:\\ASP.NET\\Asp.net_core\\Bai1\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Bai1\\Models\\ErrorViewModel.cs",
               "ToolTip": "F:\\ASP.NET\\Asp.net_core\\Bai1\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Bai1\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T14:29:59.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\ASP.NET\\Asp.net_core\\Bai1\\Program.cs",
               "RelativeDocumentMoniker": "Bai1\\Program.cs",
               "ToolTip": "F:\\ASP.NET\\Asp.net_core\\Bai1\\Program.cs",
               "RelativeToolTip": "Bai1\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T14:22:00.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "F:\\ASP.NET\\Asp.net_core\\Bai1\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Bai1\\Views\\_ViewImports.cshtml",
@@ -174,12 +187,11 @@
               "RelativeToolTip": "Bai1\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T14:21:45.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T14:21:45.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "F:\\ASP.NET\\Asp.net_core\\Bai1\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Bai1\\Views\\_ViewStart.cshtml",
@@ -187,12 +199,11 @@
               "RelativeToolTip": "Bai1\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T14:21:39.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T14:21:39.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "F:\\ASP.NET\\Asp.net_core\\Bai1\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Bai1\\appsettings.Development.json",
@@ -200,12 +211,11 @@
               "RelativeToolTip": "Bai1\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-09T14:21:54.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T14:21:54.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\ASP.NET\\Asp.net_core\\Bai1\\appsettings.json",
               "RelativeDocumentMoniker": "Bai1\\appsettings.json",
@@ -213,8 +223,7 @@
               "RelativeToolTip": "Bai1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-09T14:21:58.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T14:21:58.707Z"
             }
           ]
         }

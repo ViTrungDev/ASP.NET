@@ -8,5 +8,9 @@ namespace Bai1.Controllers
         {
             return View();
         }
+        public IActionResult GioiThieu()
+        {
+            return View();
+        }
     }
 }
