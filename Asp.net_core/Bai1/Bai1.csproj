@@ -10,4 +10,16 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="Content\css\.DS_Store" />
+    <None Include="Content\images\.DS_Store" />
+    <None Include="Content\js\.DS_Store" />
+    <None Include="Content\js\revolution\.DS_Store" />
+    <None Include="Content\js\revolution\js\.DS_Store" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Content\icon\" />
+  </ItemGroup>
+
 </Project>

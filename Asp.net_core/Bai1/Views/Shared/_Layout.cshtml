@@ -4,25 +4,58 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - Bai1</title>
+
+    <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <!-- Custom CSS -->
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Bai1.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Content/css/style.css" asp-append-version="true">
+    <link rel="stylesheet" href="~/Content/css/responsive.css" asp-append-version="true">
+
+    <!-- Favicon -->
+    <link rel="icon" href="~/Content/images/fevicon.png" type="image/gif" />
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+
+    <!-- Fix cho trình duyệt cũ -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
 </head>
 <body>
     <header>
-        @await Html.PartialAsync("_Header");
+        @await Html.PartialAsync("_Header")
     </header>
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
-    <footer class="border-top footer text-muted">
-        @await Html.PartialAsync("_Footer");
+
+    <footer>
+        @await Html.PartialAsync("_Footer")
     </footer>
+
+    <!-- jQuery -->
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+    <!-- Bootstrap JS -->
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Custom JS -->
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/Content/js/custom.js" asp-append-version="true"></script>
+
     @await RenderSectionAsync("Scripts", required: false)
+
+    <!-- AOS Animation -->
+    <script>
+        AOS.init();
+    </script>
 </body>
 </html>

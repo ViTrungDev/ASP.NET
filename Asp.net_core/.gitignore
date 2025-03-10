@@ -1,0 +1,20 @@
+﻿# 🛑 Thư mục build
+bin/
+obj/
+
+# 🛑 Cấu hình Visual Studio
+.vs/
+*.suo
+*.user
+
+# 🛑 Thư viện frontend (nếu có)
+node_modules/
+dist/
+
+# 🛑 File nhạy cảm
+appsettings.json
+appsettings.Development.json
+.env
+
+# 🛑 File log
+*.log
